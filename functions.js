@@ -1,3 +1,3 @@
 function onButton(){
-    alert("hello")
+    window.location = 'Youtube.html';
 }
